@@ -1,0 +1,12 @@
+*.exe
+*.out
+*.o
+*.dll
+*.lnk
+*.ppm
+*.bmp
+pr2/*.zip
+PhotonMapping/Ux/*
+!PhotonMapping/Ux/buildpm.sh
+!PhotonMapping/Ux/bunny.obj
+saves/*
